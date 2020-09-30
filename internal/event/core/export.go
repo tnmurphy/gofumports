@@ -10,7 +10,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/gofumports/internal/event/label"
+	"github.com/tnmurphy/gofumports/internal/event/label"
 )
 
 // Exporter is a function that handles events.

@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gofumports/internal/event/label"
+	"github.com/tnmurphy/gofumports/internal/event/label"
 )
 
 // Event holds the information about an event of note that ocurred.

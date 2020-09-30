@@ -7,9 +7,9 @@ package event
 import (
 	"context"
 
-	"github.com/gofumports/internal/event/core"
-	"github.com/gofumports/internal/event/keys"
-	"github.com/gofumports/internal/event/label"
+	"github.com/tnmurphy/gofumports/internal/event/core"
+	"github.com/tnmurphy/gofumports/internal/event/keys"
+	"github.com/tnmurphy/gofumports/internal/event/label"
 )
 
 // Exporter is a function that handles events.

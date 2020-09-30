@@ -22,8 +22,8 @@ import (
 	"runtime/pprof"
 	"strings"
 
-	gformat "tnmurphy/gofumports/format"
-	"tnmurphy/gofumports/internal/imports"
+	gformat "github.com/tnmurphy/gofumports/format"
+	"github.com/tnmurphy/gofumports/internal/imports"
 )
 
 var (

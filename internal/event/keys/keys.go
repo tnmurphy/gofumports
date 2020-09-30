@@ -10,7 +10,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/gofumports/internal/event/label"
+	"github.com/tnmurphy/gofumports/internal/event/label"
 )
 
 // Value represents a key for untyped values.

@@ -24,7 +24,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/gofumports/internal/semver"
+	"github.com/tnmurphy/gofumports/internal/semver"
 )
 
 // A Version is defined by a module path and version pair.

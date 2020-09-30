@@ -7,8 +7,8 @@ package core
 import (
 	"context"
 
-	"github.com/gofumports/internal/event/keys"
-	"github.com/gofumports/internal/event/label"
+	"github.com/tnmurphy/gofumports/internal/event/keys"
+	"github.com/tnmurphy/gofumports/internal/event/label"
 )
 
 // Log1 takes a message and one label delivers a log event to the exporter.

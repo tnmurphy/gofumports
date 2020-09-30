@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/gofumports/internal/gopathwalk"
+	"github.com/tnmurphy/gofumports/internal/gopathwalk"
 )
 
 // To find packages to import, the resolver needs to know about all of the
